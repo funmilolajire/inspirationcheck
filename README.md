@@ -1,18 +1,19 @@
 # Random Quote Generator  
-***
+
 This is a random quote generator program.  
 
 ## Table of Contents  
-***  
 
   - [General Info](#general-info)
   - [Technologies](#technologies)
   - [Setup](#setup)
   - [Inspiration](#inspiration)
+  - [Status](#status)
 
 ## General Info  
 
 This project is a random quote generator, everything the program is run, a new randomly generated quote is displayed on the console.  
+
 ![code snippet](./images/snippet.PNG "example snippet")
 
 ## Technologies  
@@ -36,3 +37,7 @@ $ node randomquotegenerator.js
 ## Inspiration  
 
 This project is based on a [codecademy](https://www.codecademy.com/learn) portfolio project on the fullstack engineer path.  
+
+## Status  
+
+Project is: _finished_  
