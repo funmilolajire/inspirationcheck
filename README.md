@@ -1,14 +1,10 @@
 # Random Quote Generator  
-
 ***
 This is a random quote generator program.  
 
 ## Table of Contents  
-
 ***  
 
-- [Random Quote Generator](#random-quote-generator)
-  - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
   - [Setup](#setup)
