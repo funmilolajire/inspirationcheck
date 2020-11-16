@@ -1,0 +1,22 @@
+{
+  "name": "inspiration-check",
+  "version": "1.0.0",
+  "description": "generates random inspirational messages every time a user runs it",
+  "main": "mixedMessages.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funmilolajire/inspirationcheck.git"
+  },
+  "author": "Funmilola O.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funmilolajire/inspirationcheck/issues"
+  },
+  "homepage": "https://github.com/funmilolajire/inspirationcheck#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
